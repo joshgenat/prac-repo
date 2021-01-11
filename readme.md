@@ -1,2 +1,2 @@
 # practice
- hello world
+ this is a sample push
